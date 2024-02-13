@@ -1,5 +1,5 @@
 # Foodoz-SDUI
-A Food sharing android project built with Jetpack Compose using Server Driven UI. Backend developed in Node js
+A Food Ordering android project built with Jetpack Compose using Server Driven UI. Backend developed in Node js
 
 ## Screenshots
 
